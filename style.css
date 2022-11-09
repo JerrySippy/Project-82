@@ -1,0 +1,10 @@
+.body_backgorund {
+  background-image: url("138547409-colour-pencils-vector-on-white-background.webp");
+  background-position: center;
+  background-size: contain;
+}
+#myCanvas {
+  border-width: 10px;
+  background-color: white;
+  border-style: ridge;
+}
